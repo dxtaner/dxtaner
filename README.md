@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## ⚙️ &nbsp;GitHub Analytics
 <p> 
   <img align="center" width=420px src="https://github-readme-stats.vercel.app/api?username=dxtaner&show_icons=true&layout=compact&theme=radical" />
-  <img align="center" width=360px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxtaner&show_icons=true&layout=compact&theme=radical" />
+  <img align="center" width=320px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxtaner&show_icons=true&layout=compact&theme=radical" />
 </p>
 
 ## 📫 &nbsp;Connect with Me
