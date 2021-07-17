@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
  <a>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
- </a>;
+ </a>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-141a20?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sqlite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite&logoColor=blue)
 <a>
     <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
-</a>;
+</a>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p> 
