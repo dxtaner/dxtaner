@@ -23,20 +23,20 @@ Here are some ideas to get you started:
 ## 🛠 &nbsp;Tech Stack
 <a>
   <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-</a>
+</a>;
 ![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
  <a>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
- </a>
+ </a>;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-141a20?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sqlite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite&logoColor=blue)
 <a>
     <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
-</a>
+</a>;
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p> 
