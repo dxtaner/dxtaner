@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 
 
 ## 🛠 &nbsp;Tech Stack
-<a>
-  <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-</a>;
+
+![C](https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
