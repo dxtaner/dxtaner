@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## About me
 - I'm currently free and selflearning in web development.
+- I’m currently learning React and Javascript.
 - 💻 I'm currently studying computer engineering
 
 
@@ -33,6 +34,7 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-141a20?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sqlite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite&logoColor=blue)
+
 <a>
     <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
 </a>
@@ -46,7 +48,6 @@ Here are some ideas to get you started:
 ## 📫 &nbsp;Connect with Me
 [![Email](https://img.shields.io/badge/-Gmail-f1c40f?style=flat-square&logo=Gmail&logoColor=fff)](mailto:tanerozer16@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-f1c40f?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/dxtaner)
-
 
 [![GitHub](https://img.shields.io/github/followers/dxtaner?label=follow&style=social)](https://github.com/dxtaner)
 
