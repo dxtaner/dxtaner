@@ -53,9 +53,9 @@ Computer and software for about 4 years I am interested in technology. Myself in
 </p>
 
 ## 📫 &nbsp;Connect with Me
-- 💬 Ask me about ...
-[![Email](https://img.shields.io/badge/-Gmail-f1c40f?style=flat-square&logo=Gmail&logoColor=fff)](mailto:tanerozer16@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-f1c40f?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/dxtaner)
+- 💬 Ask me about ... </br> </br>
+ [![Email](https://img.shields.io/badge/-Gmail-f1c40f?style=flat-square&logo=Gmail&logoColor=fff)](mailto:tanerozer16@gmail.com)
+ [![Telegram](https://img.shields.io/badge/-Telegram-f1c40f?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/dxtaner)
 
-[![GitHub](https://img.shields.io/github/followers/dxtaner?label=follow&style=social)](https://github.com/dxtaner)
+ [![GitHub](https://img.shields.io/github/followers/dxtaner?label=follow&style=social)](https://github.com/dxtaner)
 
