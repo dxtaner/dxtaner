@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ## About me
 - I'm currently free and selflearning in web development.
 - I’m currently learning C# 
-- 💻 I'm currently studying computer engineering
+- 💻 I graduated from computer engineering
+
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@dxtaner) 
 
