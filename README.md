@@ -53,6 +53,7 @@ Computer and software for about 4 years I am interested in technology. Myself in
 </p>
 
 ## 📫 &nbsp;Connect with Me
+- 💬 Ask me about ...
 [![Email](https://img.shields.io/badge/-Gmail-f1c40f?style=flat-square&logo=Gmail&logoColor=fff)](mailto:tanerozer16@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-f1c40f?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/dxtaner)
 
