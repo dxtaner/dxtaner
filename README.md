@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - I’m currently learning C# 
 - 💻 I graduated from computer engineering
 
+Computer and software for about 4 years I am interested in technology. Myself in these areas I am trying to learn and improve.
+
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@dxtaner) 
 
