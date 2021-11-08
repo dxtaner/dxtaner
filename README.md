@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ## About me
 - I'm currently free and selflearning in web development.
-- I’m currently learning C# 
 - 💻 I graduated from computer engineering
 
 Computer and software for about 4 years I am interested in technology. Myself in these areas I am trying to learn and improve.
