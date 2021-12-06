@@ -27,7 +27,7 @@ I'm Taner from Bursa/Turkey. Computer and software for about 4 years I am intere
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@dxtaner)
 
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp; I'm interested in
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=Linux)&nbsp;
