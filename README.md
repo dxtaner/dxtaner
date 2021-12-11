@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-- I'm currently selflearning in web development.
+- I'm currently learning in web development.
 - 💻 I graduated from computer engineering
 
-I'm Taner from Bursa/Turkey. Computer and software for about 4 years I am interested in technology. Myself in these areas I am trying to learn and improve.
+I'm Taner from Bursa/Turkey.
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/dxtaner)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tanerozer16/)
