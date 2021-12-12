@@ -59,8 +59,8 @@ I'm Taner from Bursa/Turkey.
 
 ## 📫 &nbsp;Connect with Me
 - 💬 Ask me about ... </br> </br>
- [![Email](https://img.shields.io/badge/-Gmail-f1c40f?style=flat-square&logo=Gmail&logoColor=fff)](mailto:tanerozer16@gmail.com)
- [![Telegram](https://img.shields.io/badge/-Telegram-f1c40f?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/dxtaner)
+ [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanerozer16@gmail.com)
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dxtaner)
 
  [![GitHub](https://img.shields.io/github/followers/dxtaner?label=follow&style=social)](https://github.com/dxtaner)
 
