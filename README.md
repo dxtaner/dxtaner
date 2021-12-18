@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tanerozer16@gmail.com**
 
-- ⚡ Fun fact **I think I am unsophisticated,aficionado**
+- ⚡ Fun fact **I think I am natural,aficionado**
 
 
 
