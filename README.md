@@ -5,7 +5,7 @@
 
 - 💻 I graduated from computer engineering
 
-- 🌱 I’m currently learning **Fronted --> React  **
+- 🌱 I’m currently learning **Fronted --> React**
 
 - 💬 Ask me about **JavaScript, Pyhton.**
 
