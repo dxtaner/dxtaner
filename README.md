@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Taner <img align="right" src="https://komarev.com/ghpvc/?username=dxtaner&color=164896">
 
 ## About Me
-<h3 align="center">A zealous  software developer from Bursa/Turkey.</h3>
+<h3 align="center"> A zealous software developer from Bursa/Turkey.</h3>
 
-- 💻 I graduated from computer engineering
+- 💻 I graduated from computer engineering. I'm where I feel belong.
 
 - 🌱 I’m currently learning **Fronted --> React**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tanerozer16@gmail.com**
 
-- ⚡ Fun fact **I think I am natural,aficionado**
+- ⚡ Fun fact **I think I am natural, aficionado**
 
 
 
