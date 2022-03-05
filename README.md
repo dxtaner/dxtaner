@@ -5,7 +5,7 @@
 
 - 💻 I have been interested in software and computers. I'm where I feel belong.
 
-- 🌱 I’m currently learning **Node Js **
+- 🌱 I’m currently learning **Node Js**
 
 - 💬 Ask me about **JavaScript, Pyhton.**
 
