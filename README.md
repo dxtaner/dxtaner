@@ -3,9 +3,9 @@
 ## About Me
 <h3 align="center"> A zealous software developer from Bursa/Turkey.</h3>
 
-- 💻 I graduated from computer engineering. I'm where I feel belong.
+- 💻 I have been interested in software and computers. I'm where I feel belong.
 
-- 🌱 I’m currently learning **Fronted --> React**
+- 🌱 I’m currently learning **Node Js **
 
 - 💬 Ask me about **JavaScript, Pyhton.**
 
@@ -19,7 +19,6 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/tanerozer16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanerozer16/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13437362/taner-Özer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="taner-özer" height="30" width="40" /></a>
 <a href="https://medium.com/@dxtaner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dxtaner" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tanerozerly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tanerozerly" height="30" width="40" /></a>
 </p>
