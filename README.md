@@ -34,6 +34,6 @@
 ## 📫 &nbsp;Connect with Me
 - 💬 Ask me about ... </br> </br>
  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanerozer16@gmail.com)
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dxtaner)
+<!--  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dxtaner) -->
 
  [![GitHub](https://img.shields.io/github/followers/dxtaner.svg?style=social&label=Follow&maxAge=556)](https://github.com/dxtaner)
