@@ -3,7 +3,7 @@
 ## About Me
 <h3 align="center"> A zealous software developer from Bursa/Turkey.</h3>
 
-- 💻 I have been interested in software and computers. I'm where I feel belong.
+- 💻 I have been interested in software and computers.
 
 - 🌱 I’m currently learning **Node Js**
 
