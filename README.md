@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think I am natural, aficionado**
 
-Portfolio site: [Portfolio](https://dxtaner.github.io/)
+Portfolio site: [dxtaner](https://dxtaner.github.io/)
 
 
 
