@@ -3,24 +3,28 @@
 ## About Me
 <h3 align="center"> A zealous software developer from Bursa/Turkey.</h3>
 
-- 💻 I have been interested in software and computers.
+- 🔭 I’m currently working on [Cars Node.js Api](https://github.com/dxtaner/CarNodejsApi)
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Node.js, React.js**
 
-- 💬 Ask me about => 📫 How to reach me **tanerozer16@gmail.com**
+- 👯 I’m looking to collaborate on [Flutter Projects](https://github.com/dxtaner/flutter)
+
+- 👨‍💻 My information about me [https://dxtaner.github.io/](https://dxtaner.github.io/)
+
+- 📝 I regularly write articles on [https://medium.com/@dxtaner](https://medium.com/@dxtaner)
+
+- 📫 How to reach me **tanerozer16@gmail.com**
 
 - ⚡ Fun fact **I think I am natural, aficionado**
 
-**Portfolio** [dxtaner](https://dxtaner.github.io/)
-
-
-
-## 🔭 Link Accounts
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanerozer16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanerozer16/" height="30" width="40" /></a>
+<a href="https://twitter.com/tanerozer1675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanerozer1675" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanerozer16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanerozer16" height="30" width="40" /></a>
 <a href="https://medium.com/@dxtaner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dxtaner" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tanerozer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tanerozer" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tanerozer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanerozer" height="30" width="40" /></a>
 </p>
+
 
 ## 🛠 &nbsp; I'm interested in
 <h3 align="left">Languages and Tools:</h3>
