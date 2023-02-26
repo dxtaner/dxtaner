@@ -11,7 +11,7 @@
 
 - 👨‍💻 My information about me [https://dxtaner.github.io/](https://dxtaner.github.io/)
 
-- 📝 I tolerable write articles on [https://medium.com/@dxtaner](https://medium.com/@dxtaner)
+- 📝 I episodic write articles on [https://medium.com/@dxtaner](https://medium.com/@dxtaner)
 
 - 📫 How to reach me **tanerozer16@gmail.com**
 
