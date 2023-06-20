@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Taner <img align="right" src="https://komarev.com/ghpvc/?username=dxtaner&color=164896">
 
 ## About Me
-<h3 align="center"> A zealous software developer from Bursa/Turkey.</h3>
+
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72722&background=FFC85F00&width=435&lines=A+zealous+software+developer+from+Bursa%2FTurkey.;I+love+coding+with+nodejs+and+react+js)](https://git.io/typing-svg)
+
 
 - 🔭 I’m currently working on [Football Node.js Api](https://github.com/dxtaner/footballapp)
 
