@@ -2,7 +2,7 @@
 
 ## About Me
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72722&background=FFC85F00&width=435&lines=A+zealous+software+developer+from+Bursa%2FTurkey.;I+love+coding+with+nodejs+and+react+js)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Raleway&weight=250&size=24&pause=1500&color=F72722&background=FFC85F00&multiline=true&width=450&lines=A+zealous+software+developer+from+Bursa%2FTurkey.;I+love+coding+with+nodejs+and+reactjs)](https://git.io/typing-svg))
 
 
 - 🔭 I’m currently working on [Football Node.js Api](https://github.com/dxtaner/footballapp)
