@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Taner <img align="right" src="https://komarev.com/ghpvc/?username=dxtaner&color=164896">
 
+
+
 ## About Me
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Raleway&weight=250&size=24&pause=1500&color=F72722&background=FFC85F00&width=450&lines=A+zealous+software+developer+from+Bursa%2FTurkey.;I+love+coding+with+nodejs+and+reactjs)](https://git.io/typing-svg)
@@ -54,7 +56,8 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 
-## ⚙️ &nbsp;GitHub Analytics
+## 📊 &nbsp; My GitHub Analytics
+
 <p align="center">
   <img align="center" width=420px src="https://github-readme-stats.vercel.app/api?username=dxtaner&show_icons=true&layout=compact&theme=radical" />
   <img align="center" width=320px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxtaner&show_icons=true&layout=compact&theme=radical" />
