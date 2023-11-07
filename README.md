@@ -59,9 +59,10 @@
 <p align="center">
   <img align="center" width=420px src="https://github-readme-stats.vercel.app/api?username=dxtaner&show_icons=true&layout=compact&theme=radical" />
   <img align="center" width=320px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxtaner&show_icons=true&layout=compact&theme=radical" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dxtaner&theme=2077" height="170em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dxtaner&theme=2077" height="170em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dxtaner&theme=2077" height="170em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dxtaner&theme=2077" height="170em" />
+  
 
 </p>
 
