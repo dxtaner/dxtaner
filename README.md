@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Taner <img align="right" src="https://komarev.com/ghpvc/?username=dxtaner&color=164896">
 
-
-
 ## About Me
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Raleway&weight=250&size=24&pause=1500&color=F72722&background=FFC85F00&width=450&lines=A+zealous+software+developer+from+Bursa%2FTurkey.;I+love+coding+with+nodejs+and+reactjs)](https://git.io/typing-svg)
@@ -61,6 +59,10 @@
 <p align="center">
   <img align="center" width=420px src="https://github-readme-stats.vercel.app/api?username=dxtaner&show_icons=true&layout=compact&theme=radical" />
   <img align="center" width=320px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxtaner&show_icons=true&layout=compact&theme=radical" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dxtaner&theme=2077" height="170em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dxtaner&theme=2077" height="170em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dxtaner&theme=2077" height="170em" />
+
 </p>
 
 ## 📫 &nbsp;Connect with Me
