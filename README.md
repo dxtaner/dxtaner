@@ -24,7 +24,12 @@
 <a href="https://linkedin.com/in/tanerozer16" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanerozer16" height="30" width="40" /></a>
 <a href="https://medium.com/@dxtaner" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dxtaner" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tanerozer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanerozer" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tanerozer16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanerozer16" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/tanerozer1b"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tanerozer1b" /></a></p><br><br>
+
 
 ##
 <h3 align="left"> 🛠 &nbsp; Languages and Tools:</h3>
