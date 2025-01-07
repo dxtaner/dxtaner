@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Taner <img align="right" src="https://komarev.com/ghpvc/?username=dxtaner&color=164896">
+### Hi there 👋 I'm Taner Özer <img align="right" src="https://komarev.com/ghpvc/?username=dxtaner&color=164896">
 
 ## About Me
 
