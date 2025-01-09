@@ -4,19 +4,18 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Raleway&weight=250&size=24&pause=1500&color=F72722&background=FFC85F00&width=450&lines=A+zealous+software+developer+from+Bursa%2FTurkey.;I+love+coding+with+nodejs+and+reactjs)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [Football Node.js Api](https://github.com/dxtaner/footballapp)
+- 🔭 I’m currently developing a [Football API](https://github.com/dxtaner/footballapp) with **Node.js**.
 
-- 🌱 I’m currently learning **Node.js, React.js**
-
-- 👯 I’m looking to collaborate on [Flutter Projects](https://github.com/dxtaner/flutter)
-
-- 👨‍💻 My information about me [https://dxtaner.github.io/](https://dxtaner.github.io/)
-
-- 📝 I episodic write articles on [https://medium.com/@dxtaner](https://medium.com/@dxtaner)
-
-- 📫 How to reach me **tanerozer16@gmail.com**
-
-- ⚡ Fun fact **I think I am natural, aficionado**
+- 🌱 Actively learning **Node.js** and **React.js** to expand my skills.  
+- 👯 Open to collaborating on [Flutter projects](https://github.com/dxtaner/flutter).
+  
+- 👨‍💻 Learn more about me on my personal website: [dxtaner.github.io](https://dxtaner.github.io/).
+  
+- 📝 Occasionally, I share my thoughts and knowledge through articles on [Medium](https://medium.com/@dxtaner).
+   
+- 📫 Feel free to reach out to me at **tanerozer16@gmail.com**.
+  
+- ⚡ Fun fact: I’m a passionate and naturally enthusiastic individual.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
