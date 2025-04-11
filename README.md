@@ -7,7 +7,6 @@
 - 🔭 I’m currently developing a [Football API](https://github.com/dxtaner/footballapp) with **Node.js**.
 
 - 🌱 Actively learning **Node.js** and **React.js** to expand my skills.  
-- 👯 Open to collaborating on [Flutter projects](https://github.com/dxtaner/flutter).
   
 - 👨‍💻 Learn more about me on my personal website: [dxtaner.github.io](https://dxtaner.github.io/).
   
