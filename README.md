@@ -24,23 +24,27 @@ I'm a dedicated and enthusiastic full-stack developer based in <strong>Bursa, Tu
 
 ## 🌐 Connect with Me
 
+Let's connect and grow together! You can find me on:
+
 <p align="left">
-  <a href="https://twitter.com/16tanerozer75" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/tanerozer16" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://medium.com/@dxtaner" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/tanerozer" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/tanerozer16" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<!--   <a href="https://twitter.com/16tanerozer75" target="_blank" title="Twitter"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="36" /></a>&nbsp; -->
+  <a href="https://linkedin.com/in/tanerozer16" target="_blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36" /></a>&nbsp;
+  <a href="https://medium.com/@dxtaner" target="_blank" title="Medium"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="36" /></a>&nbsp;
+  <a href="https://www.hackerrank.com/tanerozer" target="_blank" title="HackerRank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="36" /></a>&nbsp;
+  <a href="https://leetcode.com/tanerozer16" target="_blank" title="LeetCode"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="36" /></a>
 </p>
 
 ---
 
-## ☕ Support Me
+## ☕ Support My Work
+
+If you like what I do and want to support me:
 
 <p>
-  <a href="https://www.buymeacoffee.com/tanerozer16">
+  <a href="https://www.buymeacoffee.com/tanerozer16" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/tanerozer16">
+  </a>&nbsp;
+  <a href="https://ko-fi.com/tanerozer16" target="_blank">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" width="170" alt="Ko-fi" />
   </a>
 </p>
