@@ -4,13 +4,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&pause=1200&color=F72722&center=false&vCenter=true&width=440&lines=A+zealous+developer+from+Bursa%2C+Turkey;Love+building+with+Node.js+and+React.js)](https://git.io/typing-svg)
 
-- 🔭 Currently working on a [Football API](https://github.com/dxtaner/footballapp) using **Node.js**
-- 🌱 Continuously improving in **Node.js** and **React.js**
-- 🖥️ Visit my personal website: [dxtaner.github.io](https://dxtaner.github.io/)
-- ✍️ Read my articles on [Medium](https://medium.com/@dxtaner)
-- 📬 Reach me at: **tanerozer16@gmail.com**
-- ⚡ Fun fact: I'm naturally curious and passionate about building cool stuff!
+### 🔧 What I'm Currently Doing
+- 🌱 Deepening my skills in **Node.js**, **React.js**, and full-stack architecture
+- ✍️ Writing articles on software development on [Medium](https://medium.com/@dxtaner)
+- 👨‍💻 Exploring computer vision projects with **Python** and **OpenCV**
 
+### 🌐 Find Me Online
+
+- 🌍 Personal Website: [dxtaner.github.io](https://dxtaner.github.io/)
+- 📝 Medium Blog: [@dxtaner](https://medium.com/@dxtaner)
+- 📫 Reach me: **tanerozer16@gmail.com**
+- 🧠 Fun fact: I love clean code, deep thinking, and building things that matter.
 ---
 
 ## 🌐 Connect with Me
