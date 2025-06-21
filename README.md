@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&pause=1200&color=F72722&center=false&vCenter=true&width=440&lines=A+zealous+developer+from+Bursa%2C+Turkey;Love+building+with+Node.js+and+React.js)](https://git.io/typing-svg)
 
 ### 🔧 What I'm Currently Doing
-- 🌱 Deepening my skills in **Node.js**, **React.js**, and full-stack architecture
+- 🌱 Deepening my skills in **Node.js**, **React.js**, and full-stack 
 - ✍️ Writing articles on software development on [Medium](https://medium.com/@dxtaner)
 - 👨‍💻 Exploring computer vision projects with **Python** and **OpenCV**
 
