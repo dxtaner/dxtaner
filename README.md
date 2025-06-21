@@ -67,6 +67,55 @@
 
 ---
 
+## 📌 Featured Projects
+
+### 🖥️ Full Stack & Web Projects
+
+- [**MyWorkspace**](https://github.com/dxtaner/MyWorkspace)  
+  💼 C, C#, JavaScript, Java, React.js, Node.js, Python ve SQL kullanılarak geliştirilmiş çok yönlü bir çalışma alanı.  
+  🚀 Çapraz platform desteği, yüksek performans, interaktif UI ve verimli veri yönetimi sağlar.
+
+- [**Tour Management System**](https://github.com/dxtaner/trip-management-app-nodejs)  
+  ✈️ JWT, Stripe, Multer, Helmet ve daha fazlası ile desteklenen bir tur rezervasyon yönetim sistemi.  
+  🔐 Kimlik doğrulama, rezervasyon işlemleri ve kapsamlı backend özellikleri içerir.
+
+- [**E-Commerce Backend**](https://github.com/dxtaner/e-commerce-backend-nodejs)  
+  🛒 WebSocket destekli e-ticaret uygulaması backend’i.  
+  🔄 Gerçek zamanlı güncellemeler, kullanıcı yönetimi ve güvenli CRUD işlemleri.
+
+- [**Chat App**](https://github.com/dxtaner/chatApp-nodejs)  
+  💬 Socket.IO kullanılarak geliştirilen gerçek zamanlı sohbet uygulaması.  
+  ✉️ Mesajlaşma, konum paylaşımı ve yazıyor göstergesi özellikleri mevcuttur.
+
+- [**Mern Stack Job App**](https://github.com/dxtaner/mern-stack-job-app)  
+  💼 İş ilanları uygulaması.  
+  🔐 Giriş/çıkış, iş ilanı ekleme, kullanıcı rolleri gibi özellikler içerir.
+
+- [**Authentication with Node.js**](https://github.com/dxtaner/AuthenticationNodeJs)  
+  🔒 Node.js, Express, JWT ve bcrypt.js ile kullanıcı kimlik doğrulama sistemi.
+
+- [**Football Management System**](https://github.com/dxtaner/footballapp)  
+  ⚽ Antrenör, futbolcu, stadyum ve takım yönetimini içeren futbol yönetim sistemi.
+
+- [**ReactJS Movie App**](https://films-app-react.vercel.app/)  
+  🎬 React, Redux, Chakra UI ile oluşturulan bir film platformu.  
+  🔍 Filmleri keşfet, detaylarını görüntüle ve listeni yönet.
+
+---
+
+### 🎯 AI & Python Projects
+
+- [**OpenCV Examples**](https://github.com/dxtaner/OpenCv-Examples)  
+  👁️ Görüntü işleme ve bilgisayarla görme örnekleri.  
+  📷 MediaPipe, pycaw ve çeşitli AI uygulamaları içerir.
+
+---
+
+### 🔍 Daha Fazlası
+
+📁 [Tüm projelerimi görüntüle](https://github.com/dxtaner?tab=repositories)
+
+---
 ## 📊 GitHub Analytics
 
 <p align="center">
