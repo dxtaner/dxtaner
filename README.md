@@ -84,48 +84,49 @@ If you like what I do and want to support me:
 ### 🖥️ Full Stack & Web Projects
 
 - [**MyWorkspace**](https://github.com/dxtaner/MyWorkspace)  
-  💼 C, C#, JavaScript, Java, React.js, Node.js, Python ve SQL kullanılarak geliştirilmiş çok yönlü bir çalışma alanı.  
-  🚀 Çapraz platform desteği, yüksek performans, interaktif UI ve verimli veri yönetimi sağlar.
+  💼 A versatile workspace developed using C, C#, JavaScript, Java, React.js, Node.js, Python, and SQL.  
+  🚀 Offers cross-platform support, high performance, interactive UI, and efficient data management.
 
 - [**Tour Management System**](https://github.com/dxtaner/trip-management-app-nodejs)  
-  ✈️ JWT, Stripe, Multer, Helmet ve daha fazlası ile desteklenen bir tur rezervasyon yönetim sistemi.  
-  🔐 Kimlik doğrulama, rezervasyon işlemleri ve kapsamlı backend özellikleri içerir.
+  ✈️ A tour booking management system powered by JWT, Stripe, Multer, Helmet, and more.  
+  🔐 Includes authentication, booking operations, and comprehensive backend features.
 
 - [**E-Commerce Backend**](https://github.com/dxtaner/e-commerce-backend-nodejs)  
-  🛒 WebSocket destekli e-ticaret uygulaması backend’i.  
-  🔄 Gerçek zamanlı güncellemeler, kullanıcı yönetimi ve güvenli CRUD işlemleri.
+  🛒 Backend for an e-commerce app with WebSocket support.  
+  🔄 Real-time updates, user management, and secure CRUD operations.
 
 - [**Chat App**](https://github.com/dxtaner/chatApp-nodejs)  
-  💬 Socket.IO kullanılarak geliştirilen gerçek zamanlı sohbet uygulaması.  
-  ✉️ Mesajlaşma, konum paylaşımı ve yazıyor göstergesi özellikleri mevcuttur.
+  💬 Real-time chat application developed with Socket.IO.  
+  ✉️ Features include messaging, location sharing, and typing indicators.
 
 - [**Mern Stack Job App**](https://github.com/dxtaner/mern-stack-job-app)  
-  💼 İş ilanları uygulaması.  
-  🔐 Giriş/çıkış, iş ilanı ekleme, kullanıcı rolleri gibi özellikler içerir.
+  💼 A job listing application.  
+  🔐 Features login/logout, job posting, and user roles.
 
 - [**Authentication with Node.js**](https://github.com/dxtaner/AuthenticationNodeJs)  
-  🔒 Node.js, Express, JWT ve bcrypt.js ile kullanıcı kimlik doğrulama sistemi.
+  🔒 User authentication system using Node.js, Express, JWT, and bcrypt.js.
 
 - [**Football Management System**](https://github.com/dxtaner/footballapp)  
-  ⚽ Antrenör, futbolcu, stadyum ve takım yönetimini içeren futbol yönetim sistemi.
+  ⚽ Football management system including coach, player, stadium, and team management.
 
 - [**ReactJS Movie App**](https://films-app-react.vercel.app/)  
-  🎬 React, Redux, Chakra UI ile oluşturulan bir film platformu.  
-  🔍 Filmleri keşfet, detaylarını görüntüle ve listeni yönet.
+  🎬 A movie platform built with React, Redux, and Chakra UI.  
+  🔍 Discover movies, view details, and manage your list.
 
 ---
 
 ### 🎯 AI & Python Projects
 
 - [**OpenCV Examples**](https://github.com/dxtaner/OpenCv-Examples)  
-  👁️ Görüntü işleme ve bilgisayarla görme örnekleri.  
-  📷 MediaPipe, pycaw ve çeşitli AI uygulamaları içerir.
+  👁️ Image processing and computer vision examples.  
+  📷 Includes MediaPipe, pycaw, and various AI applications.
 
 ---
 
-### 🔍 Daha Fazlası
+### 🔍 More
 
-📁 [Tüm projelerimi görüntüle](https://github.com/dxtaner?tab=repositories)
+📁 [View all my projects](https://github.com/dxtaner?tab=repositories)
+
 
 ---
 ## 📊 GitHub Analytics
