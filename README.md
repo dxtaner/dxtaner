@@ -141,6 +141,20 @@ If you like what I do and want to support me:
 
 ---
 
+## GitHub Streak 
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dxtaner&theme=tokyonight&hide_border=false" alt="GitHub streak" />
+</p>
+
+---
+
+## GitHub Activity Graph 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dxtaner&theme=react-dark&area=true&hide_border=true" alt="activity graph" />
+</p>
+---
+
 ## 📫 Let's Talk!
 
 💬 You can always reach out to me via:  
