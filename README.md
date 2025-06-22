@@ -144,5 +144,10 @@ If you like what I do and want to support me:
 ## 📫 Let's Talk!
 
 💬 You can always reach out to me via:  
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanerozer16@gmail.com)  
 [![GitHub Followers](https://img.shields.io/github/followers/dxtaner?label=Follow&style=social)](https://github.com/dxtaner)
+
+---
+
+
