@@ -27,7 +27,9 @@ I'm a dedicated and enthusiastic full-stack developer based in <strong>Bursa, Tu
 Let's connect and grow together! You can find me on:
 
 <p align="left">
-<!--   <a href="https://twitter.com/16tanerozer75" target="_blank" title="Twitter"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="36" /></a>&nbsp; -->
+  <a href="https://x.com/T4n3rOzer" target="_blank" title="X (formerly Twitter)">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="36" />
+  </a>&nbsp;
   <a href="https://linkedin.com/in/tanerozer16" target="_blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36" /></a>&nbsp;
   <a href="https://medium.com/@dxtaner" target="_blank" title="Medium"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="36" /></a>&nbsp;
   <a href="https://www.hackerrank.com/tanerozer" target="_blank" title="HackerRank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="36" /></a>&nbsp;
