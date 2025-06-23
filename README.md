@@ -183,8 +183,8 @@ Here are some of my recent technical articles on [Medium](https://medium.com/@dx
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dxtaner&theme=react-dark&area=true&hide_border=true" alt="activity graph" />
 </p>
----
 
+---
 ## 📫 Let's Talk!
 
 💬 You can always reach out to me via:  
