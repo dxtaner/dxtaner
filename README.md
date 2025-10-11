@@ -102,30 +102,26 @@ Let's connect and grow together! You can find me on:
 
 ## 📝 Latest Blog Posts
 
-Here are some of my recent technical articles on [Medium](https://medium.com/@dxtaner):
+<div align="left">
 
-- 📘 [**What is JSON (JavaScript Object Notation), How and Where is it Used?**](https://medium.com/@dxtaner/json-javascript-object-notation-nedir-nas%C4%B1l-ve-nerede-kullan%C4%B1l%C4%B1r-1-233e2bc5028b)  
-  A beginner-friendly explanation of JSON, its purpose, structure, and usage examples across platforms.
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dxtaner)
 
-- 📘 [**Commonly Used Terms in React.js - Part 1**](https://medium.com/@dxtaner/react-js-de-kullan%C4%B1lan-baz%C4%B1-terimler-1-983d0627017d)  
-  A list of essential terms every React.js developer should know, explained simply.
-
-- 📘 [**Firefly Algorithm**](https://medium.com/@dxtaner/ate%C5%9F-b%C3%B6ce%C4%9Fi-algoritmas%C4%B1-firefly-algorithm-d5f0abd6ab06)  
-  An overview of the Firefly Algorithm, a metaheuristic inspired by the behavior of fireflies.
-
-- 📘 [**Commonly Used Terms in JavaScript - Part 1**](https://medium.com/@dxtaner/javascript-de-kullan%C4%B1lan-baz%C4%B1-terimler-1-438bf430efd3)  
-  Key JavaScript terms explained clearly for beginners and intermediate developers.
-
-- 📘 [**Commonly Used Terms in Node.js - Part 1**](https://medium.com/@dxtaner/nodejsde-kullan%C4%B1lan-baz%C4%B1-terimler-1-a00444e7fb07)  
-  Short and informative definitions of key Node.js concepts that every backend dev should understand.
-
-- 📘 [**Commonly Used Terms in SQL - Part 1**](https://medium.com/@dxtaner/sqlde-kullan%C4%B1lan-baz%C4%B1-terimler-1-b4ec889bb06a)  
-  A quick breakdown of important SQL terms often encountered in database work.
-
-📚 More on [Medium →](https://medium.com/@dxtaner)
+</div>
 
 ---
 
+### 🎯 Featured Articles
+
+| Article | Description | Topics |
+|---------|-------------|--------|
+| [**What is JSON (JavaScript Object Notation), How and Where is it Used?**](https://medium.com/@dxtaner/json-javascript-object-notation-nedir-nas%C4%B1l-ve-nerede-kullan%C4%B1l%C4%B1r-1-233e2bc5028b) | Beginner-friendly guide to JSON structure, purpose, and real-world usage examples across different platforms. | `JSON` `JavaScript` `Web Development` `API` |
+| [**Commonly Used Terms in React.js - Part 1**](https://medium.com/@dxtaner/react-js-de-kullan%C4%B1lan-baz%C4%B1-terimler-1-983d0627017d) | Essential React.js terminology every developer should master, explained with simplicity and clarity. | `React` `Frontend` `JavaScript` `Web Development` |
+| [**Firefly Algorithm**](https://medium.com/@dxtaner/ate%C5%9F-b%C3%B6ce%C4%9Fi-algoritmas%C4%B1-firefly-algorithm-d5f0abd6ab06) | Comprehensive overview of the Firefly Algorithm, a nature-inspired metaheuristic optimization technique. | `AI` `Algorithms` `Optimization` `Machine Learning` |
+| [**Commonly Used Terms in JavaScript - Part 1**](https://medium.com/@dxtaner/javascript-de-kullan%C4%B1lan-baz%C4%B1-terimler-1-438bf430efd3) | Fundamental JavaScript concepts and terminology explained for beginners and intermediate developers. | `JavaScript` `Programming` `Web Development` |
+| [**Commonly Used Terms in Node.js - Part 1**](https://medium.com/@dxtaner/nodejsde-kullan%C4%B1lan-baz%C4%B1-terimler-1-a00444e7fb07) | Key Node.js concepts and terms that every backend developer should understand and master. | `Node.js` `Backend` `JavaScript` `Server` |
+| [**Commonly Used Terms in SQL - Part 1**](https://medium.com/@dxtaner/sqlde-kullan%C4%B1lan-baz%C4%B1-terimler-1-b4ec889bb06a) | Important SQL terminology and concepts frequently encountered in database development and management. | `SQL` `Database` `Backend` `Data Management` |
+
+---
 
 ## 📊 GitHub Analytics  
 
