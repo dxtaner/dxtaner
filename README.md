@@ -159,27 +159,17 @@ Here are some of my recent technical articles on [Medium](https://medium.com/@dx
 ---
 
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dxtaner&show_icons=true&theme=radical" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxtaner&layout=compact&theme=radical" width="320" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dxtaner&theme=2077" height="170em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dxtaner&theme=2077" height="170em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dxtaner&theme=2077" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dxtaner&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxtaner&layout=compact&theme=tokyonight" height="160" />
 </p>
-
----
-
-## GitHub Streak 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dxtaner&theme=tokyonight&hide_border=false" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=dxtaner&theme=tokyonight&hide_border=false" height="180" alt="GitHub streak" />
 </p>
 
----
-
-## GitHub Activity Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dxtaner&theme=react-dark&area=true&hide_border=true" alt="activity graph" />
 </p>
