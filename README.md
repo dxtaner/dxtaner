@@ -37,22 +37,6 @@ Let's connect and grow together! You can find me on:
 </p>
 
 ---
-
-## ☕ Support My Work
-
-If you like what I do and want to support me:
-
-<p>
-  <a href="https://www.buymeacoffee.com/tanerozer16" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="Buy Me A Coffee" />
-  </a>&nbsp;
-  <a href="https://ko-fi.com/tanerozer16" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" width="170" alt="Ko-fi" />
-  </a>
-</p>
-
----
-
 ## ⚙️ Tech Stack
 
 ### 🚀 Technologies I Love Working With
@@ -175,6 +159,21 @@ Here are some of my recent technical articles on [Medium](https://medium.com/@dx
 </p>
 
 ---
+
+## ☕ Support My Work  
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/tanerozer16" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee" />
+  </a>&nbsp;&nbsp;
+  <a href="https://ko-fi.com/tanerozer16" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" alt="Ko-fi" />
+  </a>
+</p>
+
+---
+
+
 ## 📫 Let's Talk!
 
 💬 You can always reach out to me via:  
