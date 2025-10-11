@@ -65,56 +65,40 @@ Let's connect and grow together! You can find me on:
 </p>
 
 ---
-## 📌 Featured Projects
+## 📌 Featured Projects  
 
 ### 🖥️ Full Stack & Web Projects
 
-- [**MyWorkspace**](https://github.com/dxtaner/MyWorkspace)  
-  💼 A versatile workspace developed using C, C#, JavaScript, Java, React.js, Node.js, Python, and SQL.  
-  🚀 Offers cross-platform support, high performance, interactive UI, and efficient data management.
-
-- [**Tour Management System**](https://github.com/dxtaner/trip-management-app-nodejs)  
-  ✈️ A tour booking management system powered by JWT, Stripe, Multer, Helmet, and more.  
-  🔐 Includes authentication, booking operations, and comprehensive backend features.
-
-- [**E-Commerce Backend**](https://github.com/dxtaner/e-commerce-backend-nodejs)  
-  🛒 Backend for an e-commerce app with WebSocket support.  
-  🔄 Real-time updates, user management, and secure CRUD operations.
-
-- [**Chat App**](https://github.com/dxtaner/chatApp-nodejs)  
-  💬 Real-time chat application developed with Socket.IO.  
-  ✉️ Features include messaging, location sharing, and typing indicators.
-
-- [**Mern Stack Job App**](https://github.com/dxtaner/mern-stack-job-app)  
-  💼 A job listing application.  
-  🔐 Features login/logout, job posting, and user roles.
-
-- [**Authentication with Node.js**](https://github.com/dxtaner/AuthenticationNodeJs)  
-  🔒 User authentication system using Node.js, Express, JWT, and bcrypt.js.
-
-- [**Football Management System**](https://github.com/dxtaner/footballapp)  
-  ⚽ Football management system including coach, player, stadium, and team management.
-
-- [**ReactJS Movie App**](https://films-app-react.vercel.app/)  
-  🎬 A movie platform built with React, Redux, and Chakra UI.  
-  🔍 Discover movies, view details, and manage your list.
+| Project | Description | Technologies | Links |
+|---------|-------------|--------------|-------|
+| **MyWorkspace** | Multi-language development environment with cross-platform support, high-performance architecture, and intuitive UI for efficient project management. | `C` `C#` `JavaScript` `Java` `React.js` `Node.js` `Python` `SQL` | [![GitHub](https://img.shields.io/badge/🔗_GitHub-181717?style=flat-square)](https://github.com/dxtaner/MyWorkspace) |
+| **Tour Management System** | Complete travel booking platform with secure authentication, payment processing, and comprehensive tour management features. | `Node.js` `JWT` `Stripe` `Multer` `Helmet` | [![GitHub](https://img.shields.io/badge/🔗_GitHub-181717?style=flat-square)](https://github.com/dxtaner/trip-management-app-nodejs) |
+| **E-Commerce Backend** | Scalable e-commerce backend with real-time updates, user management, and secure CRUD operations using WebSocket technology. | `Node.js` `WebSocket` `Express` `MongoDB` | [![GitHub](https://img.shields.io/badge/🔗_GitHub-181717?style=flat-square)](https://github.com/dxtaner/e-commerce-backend-nodejs) |
+| **Chat App** | Real-time messaging application with instant communication, typing indicators, and location sharing capabilities. | `Node.js` `Socket.IO` `React` `Express` | [![GitHub](https://img.shields.io/badge/🔗_GitHub-181717?style=flat-square)](https://github.com/dxtaner/chatApp-nodejs) |
+| **MERN Stack Job App** | Full-stack job marketplace with role-based access control, job posting, and application management system. | `MongoDB` `Express` `React.js` `Node.js` `JWT` | [![GitHub](https://img.shields.io/badge/🔗_GitHub-181717?style=flat-square)](https://github.com/dxtaner/mern-stack-job-app) |
+| **Authentication with Node.js** | Production-ready authentication system implementing JWT tokens and secure password hashing for web applications. | `Node.js` `Express` `JWT` `bcrypt.js` `MongoDB` | [![GitHub](https://img.shields.io/badge/🔗_GitHub-181717?style=flat-square)](https://github.com/dxtaner/AuthenticationNodeJs) |
+| **Football Management System** | Comprehensive sports management platform for teams, players, coaches, and stadium administration. | `Node.js` `Express` `MongoDB` `React` | [![GitHub](https://img.shields.io/badge/🔗_GitHub-181717?style=flat-square)](https://github.com/dxtaner/footballapp) |
+| **ReactJS Movie App** | Modern movie discovery platform with advanced search, detailed information, and favorites management. | `React` `Redux` `Chakra UI` `API Integration` | [![Demo](https://img.shields.io/badge/🎯_Live_Demo-00D26A?style=flat-square)](https://films-app-react.vercel.app/) [![GitHub](https://img.shields.io/badge/🔗_GitHub-181717?style=flat-square)](https://github.com/dxtaner/films-app-react) |
 
 ---
 
-### 🎯 AI & Python Projects
+## 🎯 AI & Python Projects
 
-- [**OpenCV Examples**](https://github.com/dxtaner/OpenCv-Examples)  
-  👁️ Image processing and computer vision examples.  
-  📷 Includes MediaPipe, pycaw, and various AI applications.
-
----
-
-### 🔍 More
-
-📁 [View all my projects](https://github.com/dxtaner?tab=repositories)
-
+| Project | Description | Technologies | Links |
+|---------|-------------|--------------|-------|
+| **OpenCV Examples** | Computer vision projects collection featuring hand tracking, facial recognition, and AI-powered image processing applications. | `Python` `OpenCV` `MediaPipe` `pycaw` `NumPy` | [![GitHub](https://img.shields.io/badge/🔗_GitHub-181717?style=flat-square)](https://github.com/dxtaner/OpenCv-Examples) |
 
 ---
+
+## 🔍 Explore More Projects
+
+<div align="left">
+
+[![View All Projects](https://img.shields.io/badge/📁_View_All_My_Projects-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dxtaner?tab=repositories)
+
+</div>
+
+--- 
 
 ## 📝 Latest Blog Posts
 
