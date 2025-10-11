@@ -160,27 +160,25 @@ Here are some of my recent technical articles on [Medium](https://medium.com/@dx
 
 ---
 
-## ☕ Support My Work  
+## 🤝 Let's Connect & Support
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/tanerozer16" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee" />
-  </a>&nbsp;&nbsp;
-  <a href="https://ko-fi.com/tanerozer16" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" alt="Ko-fi" />
+<p align="left">
+  <a href="mailto:tanerozer16@gmail.com" title="Email Me">
+    <img src="https://img.shields.io/badge/-tanerozer16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/dxtaner" title="Follow on GitHub">
+    <img src="https://img.shields.io/github/followers/dxtaner?label=Follow&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.buymeacoffee.com/tanerozer16" title="Buy Me a Coffee">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/tanerozer16" title="Support on Ko-fi">
+    <img src="https://img.shields.io/badge/Ko--fi-29ABE0?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" />
   </a>
 </p>
 
----
-
-
-## 📫 Let's Talk!
-
-💬 You can always reach out to me via:  
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanerozer16@gmail.com)  
-[![GitHub Followers](https://img.shields.io/github/followers/dxtaner?label=Follow&style=social)](https://github.com/dxtaner)
-
----
+<p align="left">
+  <i>☕ If you enjoy my work, feel free to support me or just say hi! Collaboration and conversation are always welcome.</i>
+</p>
 
 
