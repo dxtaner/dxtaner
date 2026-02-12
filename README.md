@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Taner Özer <img align="right" src="https://komarev.com/ghpvc/?username=dxtaner&color=164896">
+### Hi there 👋 I'm 👨‍💻 Taner Özer <img align="right" src="https://komarev.com/ghpvc/?username=dxtaner&color=FF0000">
+[![GitHub followers](https://img.shields.io/github/followers/dxtaner?label=Followers&style=flat-square&color=FF0000)](https://github.com/dxtaner)
 
 ## 👨‍💻 About Me
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&pause=1200&color=F72722&center=false&vCenter=true&width=440&lines=A+zealous+developer+from+Bursa%2C+Turkey;Love+building+with+Node.js+and+React.js)](https://git.io/typing-svg)
 
