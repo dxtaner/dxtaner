@@ -22,19 +22,17 @@ I'm a dedicated and enthusiastic full-stack developer based in <strong>Bursa, Tu
 - 🧠 Fun fact: I love clean code, deep thinking, and building things that matter.
 ---
 
-## 🌐 Connect with Me
+### 🌍 Connect With Me
 
-Let's connect and grow together! You can find me on:
+<a href="https://x.com/T4n3rOzer" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://linkedin.com/in/tanerozer16" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@dxtaner" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://www.hackerrank.com/tanerozer" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+<a href="https://leetcode.com/tanerozer16" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 
-<p align="left">
-  <a href="https://x.com/T4n3rOzer" target="_blank" title="X (formerly Twitter)">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="36" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/tanerozer16" target="_blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36" /></a>&nbsp;
-  <a href="https://medium.com/@dxtaner" target="_blank" title="Medium"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="36" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/tanerozer" target="_blank" title="HackerRank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="36" /></a>&nbsp;
-  <a href="https://leetcode.com/tanerozer16" target="_blank" title="LeetCode"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="36" /></a>
-</p>
+📧 **tanerozer16@gmail.com** • 🌐 **[dxtaner.github.io](https://dxtaner.github.io/)**
+
+</div>
 
 ---
 
