@@ -2,12 +2,21 @@
 
 ## 👨‍💻 About Me
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=22&pause=1200&color=F72722&center=false&vCenter=true&width=440&lines=A+zealous+developer+from+Bursa%2C+Turkey;Love+building+with+Node.js+and+React.js)](https://git.io/typing-svg)
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
-I'm a dedicated and enthusiastic full-stack developer based in <strong>Bursa, Turkey</strong>. My primary focus is building modern, scalable, and efficient applications using <strong>Node.js</strong> and <strong>React.js</strong>. I’m always curious, always learning, and always pushing the boundaries of what I can build.
-</marquee>
 
+I'm a dedicated full-stack developer based in **Bursa, Turkey** 🇹🇷, passionate about crafting modern, scalable, and efficient applications. My expertise lies in **Node.js** and **React.js**, and I'm constantly exploring new technologies and pushing the boundaries of what I can build.
+
+```javascript
+const Taner = {
+  location: "Bursa, Turkey",
+  currentFocus: ["Node.js", "React.js", "Full-Stack Development"],
+  learning: ["Computer Vision", "Python", "OpenCV"],
+  interests: ["Clean Code", "New Tech" "AI/ML"],
+  motto: "Build things that matter"
+};
+```
 
 ### 🔧 What I'm Currently Doing
 - 🌱 Deepening my skills in **Node.js**, **React.js**, and full-stack 
