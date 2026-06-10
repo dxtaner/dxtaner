@@ -128,13 +128,14 @@ const Taner = {
 
 | Article | Description | Topics |
 |---------|-------------|--------|
-| [**What is JSON (JavaScript Object Notation), How and Where is it Used?**](https://medium.com/@dxtaner/json-javascript-object-notation-nedir-nas%C4%B1l-ve-nerede-kullan%C4%B1l%C4%B1r-1-233e2bc5028b) | Beginner-friendly guide to JSON structure, purpose, and real-world usage examples across different platforms. | `JSON` `JavaScript` `Web Development` `API` |
-| [**Commonly Used Terms in React.js - Part 1**](https://medium.com/@dxtaner/react-js-de-kullan%C4%B1lan-baz%C4%B1-terimler-1-983d0627017d) | Essential React.js terminology every developer should master, explained with simplicity and clarity. | `React` `Frontend` `JavaScript` `Web Development` |
-| [**Firefly Algorithm**](https://medium.com/@dxtaner/ate%C5%9F-b%C3%B6ce%C4%9Fi-algoritmas%C4%B1-firefly-algorithm-d5f0abd6ab06) | Comprehensive overview of the Firefly Algorithm, a nature-inspired metaheuristic optimization technique. | `AI` `Algorithms` `Optimization` `Machine Learning` |
-| [**Commonly Used Terms in JavaScript - Part 1**](https://medium.com/@dxtaner/javascript-de-kullan%C4%B1lan-baz%C4%B1-terimler-1-438bf430efd3) | Fundamental JavaScript concepts and terminology explained for beginners and intermediate developers. | `JavaScript` `Programming` `Web Development` |
-| [**Commonly Used Terms in Node.js - Part 1**](https://medium.com/@dxtaner/nodejsde-kullan%C4%B1lan-baz%C4%B1-terimler-1-a00444e7fb07) | Key Node.js concepts and terms that every backend developer should understand and master. | `Node.js` `Backend` `JavaScript` `Server` |
-| [**Commonly Used Terms in SQL - Part 1**](https://medium.com/@dxtaner/sqlde-kullan%C4%B1lan-baz%C4%B1-terimler-1-b4ec889bb06a) | Important SQL terminology and concepts frequently encountered in database development and management. | `SQL` `Database` `Backend` `Data Management` |
-
+| [**What is JSON, How and Where is it Used?**](https://medium.com/@dxtaner/json-javascript-object-notation-nedir-nas%C4%B1l-ve-nerede-kullan%C4%B1l%C4%B1r-1-233e2bc5028b) | A beginner-friendly guide covering JSON structure, data exchange logic, and real-world API applications. | `JSON` `JavaScript` `Web Development` `API` |
+| [**Commonly Used Terms in React.js**](https://medium.com/@dxtaner/react-js-de-kullan%C4%B1lan-baz%C4%B1-terimler-1-983d0627017d) | Essential React.js terminology, concepts, and core mechanics every frontend developer should master. | `React` `Frontend` `JavaScript` `Web Development` |
+| [**Firefly Algorithm**](https://medium.com/@dxtaner/ate%C5%9F-b%C3%B6ce%C4%9Fi-algoritmas%C4%B1-firefly-algorithm-d5f0abd6ab06) | A comprehensive overview of the Firefly Algorithm, a nature-inspired metaheuristic optimization technique. | `AI` `Algorithms` `Optimization` `Machine Learning` |
+| [**Commonly Used Terms in JavaScript**](https://medium.com/@dxtaner/javascript-de-kullan%C4%B1lan-baz%C4%B1-terimler-1-438bf430efd3) | Fundamental JavaScript concepts, syntax terminology, and behaviors explained with simplicity. | `JavaScript` `Programming` `Web Development` |
+| [**Commonly Used Terms in Node.js**](https://medium.com/@dxtaner/nodejsde-kullan%C4%B1lan-baz%C4%B1-terimler-1-a00444e7fb07) | Key backend concepts and core Node.js terminology that every server-side developer needs to know. | `Node.js` `Backend` `JavaScript` `Server` |
+| [**Commonly Used Terms in SQL**](https://medium.com/@dxtaner/sqlde-kullan%C4%B1lan-baz%C4%B1-terimler-1-b4ec889bb06a) | Important SQL terminology, relational database concepts, and query mechanics for data management. | `SQL` `Database` `Backend` `Data Management` |
+| [**Commonly Used Software Terms**](https://medium.com/@dxtaner/baz%C4%B1-yaz%C4%B1l%C4%B1m-terimleri-1-dd4c176e5f8b) | A foundational guide explaining universal software engineering terms and jargon for developers. | `Software Engineering` `Programming` `Core Concepts` |
+| [**Commonly Used Terms in Python**](https://medium.com/@dxtaner/pythonda-kullan%C4%B1lan-baz%C4%B1-terimler-1-f35c5d420d1a) | Essential Python terminology, paradigms, and built-in concepts for beginners and intermediate coders. | `Python` `Programming` `Backend` `Data Science` |
 ---
 
 ## 📊 GitHub Analytics  
