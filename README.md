@@ -14,7 +14,6 @@ const Taner = {
   currentFocus: ["Node.js", "React.js", "Full-Stack Development"],
   learning: ["Computer Vision", "Python", "OpenCV"],
   interests: ["Clean Code", "New Tech" "AI/ML"],
-  motto: "Build things that matter"
 };
 ```
 
