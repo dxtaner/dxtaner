@@ -92,7 +92,7 @@ const Taner = {
 | **Authentication with Node.js** | Production-ready authentication system implementing JWT tokens and secure password hashing for web applications. | `Node.js` `Express` `JWT` `bcrypt.js` `MongoDB` | [![GitHub](https://img.shields.io/badge/🔗_GitHub-181717?style=flat-square)](https://github.com/dxtaner/AuthenticationNodeJs) |
 | **Football Management System** | Comprehensive sports management platform for teams, players, coaches, and stadium administration. | `Node.js` `Express` `MongoDB` `React` | [![GitHub](https://img.shields.io/badge/🔗_GitHub-181717?style=flat-square)](https://github.com/dxtaner/footballapp) |
 | **ReactJS Movie App** | Modern movie discovery platform with advanced search, detailed information, and favorites management. | `React` `Redux` `Chakra UI` `API Integration` | [![Demo](https://img.shields.io/badge/🎯_Live_Demo-00D26A?style=flat-square)](https://films-app-react.vercel.app/) [![GitHub](https://img.shields.io/badge/🔗_GitHub-181717?style=flat-square)](https://github.com/dxtaner/films-app-react) |
-
+| **Hotel Booking System** | Full-stack hotel reservation and management platform with JWT authentication, hotel search, booking management, and protected admin dashboard. | `MongoDB` `Express` `React` `Node.js` `JWT` | [![GitHub](https://img.shields.io/badge/🔗_GitHub-181717?style=flat-square)](https://github.com/dxtaner/hotel-booking) |
 ---
 
 ## 🎯 AI & Python Projects
